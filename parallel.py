@@ -1,4 +1,5 @@
 import multiprocessing as mp
+from multiprocessing import Pool #Pool object represent pool, it schedules the process, n of
 import time
 import math
 #import numpy as np
