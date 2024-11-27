@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: libdlf
+Version: 0.3.0
+Summary: Library for Digital Linear Filters (DLF)
+Home-page: https://github.com/emsig/libdlf
+Author: The emsig community
+Author-email: info@emsig.xyz
+License: BSD-3-Clause
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: numpy
+
+Library for Digital Linear Filters (DLF) as used, for instance, in Geophysics for electromagnetic modelling. See https://github.com/emsig/libdlf
+
